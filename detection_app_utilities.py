@@ -1,7 +1,6 @@
 from operator import ge
 from tkinter import *
 from sys import exit
-from click import command
 
 from matplotlib.pyplot import text
 

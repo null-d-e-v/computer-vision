@@ -2,9 +2,7 @@ from tkinter import *
 from tkinter import filedialog
 from PIL import ImageTk, Image
 from os import path
-from click import command
 
-from matplotlib.pyplot import text
 
 from dectection_core import MATCH_METHODS
 from dectection_core import custom_cv_from_match
